@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+# M106_Summer_2020
 
-You can use the [editor on GitHub](https://github.com/agoodlad/M106_Summer_2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<html>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<body>
+<h2>About Me:</h2>
 
-### Markdown
+<p>I am currently a third year PhD student in the Department of Mathematics at Indiana University. 
+</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<h2>Curriculum Vitae:</h2>
 
-```markdown
-Syntax highlighted code block
+<p>Linked below is my CV:<br><br>
 
-# Header 1
-## Header 2
-### Header 3
+<b>Curriculum Vitae (Last Updated: August, 2019)</b>
+</p>
 
-- Bulleted
-- List
+<h2>Teaching Assistant Background:</h2>
 
-1. Numbered
-2. List
+<p>Each semester since my first year, I have been an associate instructor--i.e. a teaching assistant--that has been assigned to various teaching assistant positions. They are listed in inverse chronological order (most recent to least recent) as follows:
+</p>
 
-**Bold** and _Italic_ and `Code` text
+<ul>
+<li><b>Fall 2019:</b>
+<ul>
+<li>Two recitations for M212 (Calculus II)</li>
+</ul></li>
+<li><b>Summer 2019:</b>
+<ul>
+<li>Grader for M311 (Calculus 3)</li>
+</ul></li>
+</ul>
 
-[Link](url) and ![Image](src)
-```
+<h2>Research Discography:</h2>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<h2>Related Links:</h2>
 
-### Jekyll Themes
+<p>A few links of mine worth mentioning.<br><br>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/agoodlad/M106_Summer_2020/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<b>Mathematics Blog.</b> This blog contains various posts related to what's been going on in my mathematics career, mathematics at IU, and various mathematical content I feel like discussing. This blog also keeps record of the notes I take on various math topics, and has a private tutor information page.<br><br>
 
-### Support or Contact
+<b>Stackexchange Account.</b> While I haven't recently been very active on Stackexchange, you are very welcome to check out some of my replies on my current Stackexchange account. I also have an old one that is currently inactive that you are more than free to check out.<br><br>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<b>Youtube Channel.</b>
+</p>
+
+</body>
+</html>
