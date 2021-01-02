@@ -1,6 +1,4 @@
-# M106_Summer_2020
-
-# M106_Summer_2020
+# M106 Summer 2020
 
 <html>
 
